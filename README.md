@@ -1,0 +1,4 @@
+- 👋 Hey! I’m Asif Choudhury.
+- 📖 I am currently a third year Software Engineering student at Toronto Metropolitan University.
+- 👨‍💻 On this GitHub, you'll find some of the projects I have done for a few relevant courses (read the README files to know the most notable projects from each course).
+- 🔗 You can find me here on LinkedIn: https://www.linkedin.com/in/asif-choudhury-75aa37285/
