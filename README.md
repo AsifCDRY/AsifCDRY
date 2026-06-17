@@ -1,4 +1,4 @@
 - Hi! I’m Asif Choudhury.
-- I am currently a fourth year Software Engineering student at Toronto Metropolitan University.
+- I've recently graduated from Toronto Metropolitan University with an undergrad degree in Computer Engineering.
 - On this GitHub, you'll find some projects I have worked on in the past relevant to my studies/area of interest.
 - You can find me here on LinkedIn: https://www.linkedin.com/in/asif-choudhury-75aa37285/
